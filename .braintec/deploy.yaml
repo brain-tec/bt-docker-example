@@ -5,3 +5,10 @@ git_repositories:
   - repository: git@github.com:OCA/server-tools.git
     branch: 12.0
     commitortag: f03c8b57c572987381c589e29866d15315d04a2c
+
+server:
+  prod:
+    hostname: test.nodomain
+    sshuser: johndoe
+    sshport: 1234
+    dbuser: odoo

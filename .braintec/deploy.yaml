@@ -5,6 +5,9 @@ git_repositories:
   - repository: git@github.com:OCA/server-tools.git
     branch: 12.0
     commitortag: f03c8b57c572987381c589e29866d15315d04a2c
+  - repository: git@github.com:OCA/web.git
+    branch: 12.0
+    comittortag: fec11cbd5485413e5f1316c042f9a4170d852e58
   - repository: git@github.com:brain-tec/odoo.git
     branch: 12.0
 

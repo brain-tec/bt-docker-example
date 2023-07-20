@@ -9,7 +9,7 @@
     'name': 'TEST',
     'version': '12.0.1.0.1',
     'category': '',
-    'license': 'LGPL',
+    'license': 'LGPL-3',
     'summary': 'TEST',
     'author': 'brain-tec AG',
     'website': 'http://www.braintec-group.com',

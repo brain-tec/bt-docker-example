@@ -6,8 +6,10 @@
 ##############################################################################
 
 
-from odoo import models
+from odoo import models, fields
 
 
 class ResPartner(models.Model):
     _inherit = "res.partner"
+
+    demo_field = fields.Char()

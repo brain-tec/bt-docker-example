@@ -7,7 +7,7 @@
 
 {
     'name': 'TEST',
-    'version': '12.0.1.0.1',
+    'version': '16.0.1.0.1',
     'category': '',
     'license': 'LGPL-3',
     'summary': 'TEST',

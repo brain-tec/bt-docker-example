@@ -1,5 +1,5 @@
 git_repositories:
-  - repository: git@github.com:BT-sschmid/bt-docker-example.git
+  - repository: git@github.com:brain-tec/bt-docker-example.git
     branch: 16.0.cli_deploy
     mainrepo: true
   - repository: git@github.com:OCA/server-tools.git

@@ -18,4 +18,4 @@ server:
     sshport: 1234
     dbuser: odoo
     
-debian_codename: bullseye
+debian_codename: buster

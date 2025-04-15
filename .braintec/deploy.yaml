@@ -4,8 +4,6 @@ git_repositories:
     mainrepo: true
   - repository: git@github.com:brain-tec/odoo.git
     branch: 16.0
-  - repository: git@github.com:brain-tec/enterprise.git
-    branch: 16.0
 
 server:
   prod:

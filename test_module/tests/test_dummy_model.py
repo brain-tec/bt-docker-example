@@ -1,5 +1,6 @@
 from odoo.tests.common import TransactionCase
 
+
 class TestDummyModel(TransactionCase):
     def setUp(self):
         super(TestDummyModel, self).setUp()

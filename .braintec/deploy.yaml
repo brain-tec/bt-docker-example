@@ -19,4 +19,4 @@ server:
     dbuser: odoo
     
 debian_codename: bullseye
-version: 2
+version: 1

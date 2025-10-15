@@ -1,0 +1,4 @@
+[submodule "ext/bt-developer"]
+	path = ext/bt-developer
+	url = git@github.com:brain-tec/bt-developer.git
+	branch = 16.0

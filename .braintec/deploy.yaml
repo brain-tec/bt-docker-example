@@ -11,6 +11,9 @@ server:
     sshuser: johndoe
     sshport: 1234
     dbuser: odoo
-    
+
+non_project_modules:
+  - sanity_check_client
+
 debian_codename: bullseye
 version: 2

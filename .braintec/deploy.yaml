@@ -17,6 +17,7 @@ server:
     sshuser: johndoe
     sshport: 1234
     dbuser: odoo
-    
+
+setuptools_version: 81
 debian_codename: bullseye
 version: 2

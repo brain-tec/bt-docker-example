@@ -10,7 +10,7 @@ git_repositories:
     commitortag: fec11cbd5485413e5f1316c042f9a4170d852e58
   - repository: git@github.com:brain-tec/odoo.git
     branch: 16.0
-    commitortag: 65e5a047215d3231bbce28cc96e5a870505df098
+    commitortag: 38848441e9ddd0cfa890decad468300c86dff66a
 
 server:
   prod:

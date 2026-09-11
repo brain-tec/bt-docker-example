@@ -18,5 +18,5 @@ server:
     sshport: 1234
     dbuser: odoo
 setuptools_version: 81
-debian_codename: bullseye
+debian_codename: bookworm
 version: 1

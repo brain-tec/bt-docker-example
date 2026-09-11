@@ -15,5 +15,5 @@ server:
 non_project_modules:
   - sanity_check_client
 
-debian_codename: bullseye
+debian_codename: bookworm
 version: 2

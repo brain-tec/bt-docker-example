@@ -19,3 +19,4 @@ server:
     dbuser: odoo
     
 debian_codename: bookworm
+version: 2

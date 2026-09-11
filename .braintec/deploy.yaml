@@ -13,5 +13,5 @@ server:
     dbuser: odoo
 
 setuptools_version: 81
-debian_codename: bullseye
+debian_codename: bookworm
 version: 2

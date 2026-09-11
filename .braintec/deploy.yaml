@@ -4,7 +4,7 @@ git_repositories:
     mainrepo: true
   - repository: git@github.com:OCA/server-tools.git
     branch: 16.0
-    commitortag: f03c8b57c572987381c589e29866d15315d04a2c
+    commitortag: 4f89111cde783b74946de139f6c5efa8531fa1f0
   - repository: git@github.com:OCA/web.git
     branch: 16.0
     comittortag: fec11cbd5485413e5f1316c042f9a4170d852e58

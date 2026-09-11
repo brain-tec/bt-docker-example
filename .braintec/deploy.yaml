@@ -5,4 +5,5 @@ git_repositories:
   - repository: git@github.com:brain-tec/odoo.git
     branch: 12.0
 
-debian_codename: "buster"
+debian_codename: "bookworm"
+version: 2
